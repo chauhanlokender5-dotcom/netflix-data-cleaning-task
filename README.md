@@ -1,5 +1,5 @@
- netflix-data-cleaning-task
- Netflix Movies & TV Shows – Data Cleaning (Internship Task 1)
+## netflix-data-cleaning-task
+## Netflix Movies & TV Shows – Data Cleaning (Internship Task 1)
 
  🎯 Objective  
 The goal of this task was to **clean and preprocess** a raw dataset containing Netflix Movies and TV Shows.  
